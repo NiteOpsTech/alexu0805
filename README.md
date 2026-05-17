@@ -1,4 +1,4 @@
-# Alejandro A. Ugalde-Quintana 👋
+# Alejandro A. Ugalde-Quintana 
 **IT Professional | Cybersecurity & CloudOps Systems Specialist**
 
 Results-driven IT professional bridging technical infrastructure operations with deep defense-in-depth engineering. Experienced in optimizing multi-disk environments, automating tasks via script pipelines, and aligning system architectures with enterprise IT Asset Management and Six Sigma frameworks.
