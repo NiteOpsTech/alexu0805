@@ -18,13 +18,7 @@ Results-driven IT professional bridging enterprise technology operations with de
 ---
 
 ### Active Engineering Labs & High-Impact Projects
-
-Got it. Looking at your public repository list in the new screenshot, you have a solid naming convention going. We will map the portfolio links directly to those exact repository names (`security-auth-parser`, `SSH-Hardening-Audit`, `Security-Ops-Storage`, `MultiOS-Storage-Architecture`, and `local-ai-orchestration`).
-
-Here is the fully aligned, clean markdown document ready for your main portfolio profile.
-
 ---
-
 # Cybersecurity Engineering & Automation Portfolio
 
 An implementation directory of advanced Linux kernel engineering, autonomic defense systems, and low-level security auditing utilities. Managed and developed by NiteOpsTech.
