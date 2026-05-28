@@ -40,7 +40,7 @@ An implementation directory of advanced Linux kernel engineering, autonomic defe
 
 ## Tiered Security & Engineering Roadmap (Levels 1–10)
 
-This section tracks progressive infrastructure development, moving from fundamental endpoint configuration up to custom low-level telemetry engineering and autonomous cloud analytics.
+This section tracks progressive infrastructure development, moving from fundamental endpoint configuration up to custom low-level telemetry engineering and autonomous cloud analytics
 
 ### [Level 1: Endpoint & Identity Security Foundations](https://www.google.com/search?q=https://github.com/NiteOpsTech/Portfolio-Roadmap/tree/main/level-1)
 
@@ -48,39 +48,39 @@ This section tracks progressive infrastructure development, moving from fundamen
 
 ### [Level 2: Local AI Engine Deployment](https://www.google.com/search?q=https://github.com/NiteOpsTech/local-ai-orchestration)
 
-* Orchestration and deployment of localized large language models utilizing Ollama containerized within Docker instances for offline data processing.
+* Orchestration and deployment of localized large language models utilizing Ollama containerized within Docker instances for offline data processing
 
 ### [Level 3: Custom Security AI Chatbot API Scripting](https://www.google.com/search?q=https://github.com/NiteOpsTech/local-ai-bridge)
 
-* Programmatic bridge construction and API development to interface securely with local model environments for contextual security alert analysis.
+* Programmatic bridge construction and API development to interface securely with local model environments for contextual security alert analysis
 
 ### [Level 4: Detections-as-Code](https://www.google.com/search?q=https://github.com/NiteOpsTech/local-detection-pipeline)
 
-* Engineering defensive logic playbooks by translating threat behaviors into formal Sigma Rules integrated directly into custom Wazuh monitoring pipelines.
+* Engineering defensive logic playbooks by translating threat behaviors into formal Sigma Rules integrated directly into custom Wazuh monitoring pipelines
 
 ### [Level 5: Cloud Infrastructure-as-Code](https://www.google.com/search?q=https://github.com/NiteOpsTech/local-terraform-sandbox)
 
-* Provisioning and auditing cloud infrastructure sandboxes dynamically via Terraform to enforce reproducible, deterministic environments.
+* Provisioning and auditing cloud infrastructure sandboxes dynamically via Terraform to enforce reproducible, deterministic environments
 
 ### [Level 6: Local IoT Migration](https://www.google.com/search?q=https://github.com/NiteOpsTech/local-iot-migration)
 
-* Designing an isolated local network migration for high-capacity security cameras and storage using Scrypted to enforce segmentation boundaries.
+* Designing an isolated local network migration for high-capacity security cameras and storage using Scrypted to enforce segmentation boundaries
 
 ### [Level 7: Enterprise Security Data Pipeline](https://www.google.com/search?q=https://github.com/NiteOpsTech/security-auth-parser)
 
-* Structural pipeline engineering focusing on Log Extract, Transform, and Load (ETL) mechanics to normalize raw system telemetry streams, transforming unstructured textual security logs into clean data formats.
+* Structural pipeline engineering focusing on Log Extract, Transform, and Load (ETL) mechanics to normalize raw system telemetry streams, transforming unstructured textual security logs into clean data formats
 
 ### [Level 8: Sentry Database and Camera Metadata Processing](https://www.google.com/search?q=https://github.com/NiteOpsTech/Portfolio-Roadmap/tree/main/level-8)
 
-* Backend database development to ingest, parse, and structure localized sensor metrics and object-detection streams in real time.
+* Backend database development to ingest, parse, and structure localized sensor metrics and object-detection streams in real time
 
 ### [Level 9: Cloud Data Warehouse Analytics](https://www.google.com/search?q=https://github.com/NiteOpsTech/Portfolio-Roadmap/tree/main/level-9)
 
-* Advanced threat hunting analytics deploying large-scale query parsing over Snowflake environments utilizing optimized SQL schemas.
+* Advanced threat hunting analytics deploying large-scale query parsing over Snowflake environments utilizing optimized SQL schemas
 
 ### [Level 10: NanoMesh Control Plane & Autonomous Defense Matrix](https://www.google.com/search?q=https://github.com/NiteOpsTech/NanoMesh-Control-Plane)
 
-* Implementation of zero-overhead kernel hooks via eBPF to monitor raw execution states, socket lifecycles, and execute mid-session moving target defense traffic redirection within an interconnected multi-tenant labyrinth.
+* Implementation of zero-overhead kernel hooks via eBPF to monitor raw execution states, socket lifecycles, and execute mid-session moving target defense traffic redirection within an interconnected multi-tenant labyrinth
 ---
 
 ### Active Academic Timeline
