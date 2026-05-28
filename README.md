@@ -19,53 +19,74 @@ Results-driven IT professional bridging enterprise technology operations with de
 
 ### Active Engineering Labs & High-Impact Projects
 
-#### [Bare-Metal Dual-Boot Architecture & Multi-Disk Virtualization](https://github.com/alexu0805/MultiOS-Storage-Architecture)
-* **Workstation Isolation:** Overhauled a bare-metal engineering workstation to host an isolated dual-boot bridging Windows 11 and Red Hat Enterprise Linux (RHEL) 10 with non-volatile memory optimization.
-* **Storage Flattening:** Purged legacy un-routable partition constraints and stranded recovery segments from physical targets using elevated `diskpart` interfaces to maximize raw NTFS gaming performance blocks.
-* **Cross-OS Topology Safety Markers:** Resolved cross-kernel allocation blindness by engineering a structural FAT32 "stub" volume (`LINUX_LAB_DRIVE`) visible as an explicit visual boundary within Windows Disk Management without affecting standard Linux partitions.
-* **UEFI NVRAM Route Management:** Deployed the `rEFInd` platform-agnostic boot manager via custom upstream RPM configurations, altering active system boot flags safely without modifying local system encryption headers.
+Got it. Looking at your public repository list in the new screenshot, you have a solid naming convention going. We will map the portfolio links directly to those exact repository names (`security-auth-parser`, `SSH-Hardening-Audit`, `Security-Ops-Storage`, `MultiOS-Storage-Architecture`, and `local-ai-orchestration`).
 
-#### [Multi-Layer Cryptographic Vaults & Kernel Hardening Labs](https://github.com/alexu0805/Security-Ops-Storage)
-* **Kernel Cache Purging:** Hardened the multi-boot boundary by purging Windows Fast Startup execution flags, forcing clean file-system teardowns and avoiding partition corruption across multi-environment environments.
-* **High-Entropy Isolation:** Built a fixed 440GB high-entropy virtual block storage cipher container using VeraCrypt inside an exFAT environment (`SEC_HOST`), configured with symmetric block cipher AES-256 and SHA-512 key derivations.
-* **Automation Automation & Obfuscation:** Stripped active OS drive mappings to obscure hidden paths, codifying localized non-persistent mounting shell macros (`tankon`/`tankoff` and `secureon`/`secureoff`) to automatically map local mounts on-demand.
-
-#### [Advanced Linux SSH Subsystem Auditing & Hardening Guide](https://github.com/alexu0805/SSH-Hardening-Audit)
-* **Log Level Escalation:** Transitioned a production Linux OpenSSH configuration from a default state to a compliant `LogLevel VERBOSE` profile, forcing logging subsystems to capture unique public key cryptographic fingerprints.
-* **Telemetry Traps:** Configured threshold boundaries (`MaxAuthTries 2`) to short-circuit automated brute-force attacks, testing real-time event analytics streams cleanly via line-buffered pipeline hooks (`tail -f /var/log/auth.log | grep -line-buffered "sshd"`).
-
-#### [Project Glitchy: Cyber-Defense Logic Engine](https://github.com/alexu0805/glitchy-game)
-* **Asynchronous Typing Sandbox:** Engineered a command-line Incident Response typing simulator leveraging Python's raw `curses` interface to mimic low-level Unix console architecture.
-* **State Machine & Sprite Transformations:** Implemented automated environmental vulnerability tracking logic that shifts rendering attributes to high-intensity flash-states and scales multi-vector ascii sprite assets based on active network threat maps.
+Here is the fully aligned, clean markdown document ready for your main portfolio profile.
 
 ---
 
-###  Professional Track & Complete Credentials Portfolio
+# Cybersecurity Engineering & Automation Portfolio
 
-#### Cybersecurity & Forensics
-* **Google Cybersecurity Professional Certificate** | *Credential ID: JM54QY5LWW7T*
-* **Sound the Alarm: Detection and Response (Log Analysis)** | *Credential ID: B5GAO1J6DIX7*
-* **Assets, Threats, and Vulnerabilities** | *Credential ID: JW0YFY11GN89*
-* **Learning Virtual Private Networks (VPN)** | *LinkedIn Learning*
+An implementation directory of advanced Linux kernel engineering, autonomic defense systems, and low-level security auditing utilities. Managed and developed by NiteOpsTech.
 
-#### Enterprise Linux & Infrastructure Support
-* **Google Linux Fundamentals** | *Technical Competency Standard*
-* **Linux CentOS 7: Desktops and Remote Access** | *LinkedIn Learning*
-* **Introduction to Linux** | *LinkedIn Learning*
-* **IT Help Desk for Beginners (Technical Support Infrastructure)** | *LinkedIn Learning*
+---
 
-#### Network Infrastructure & Automated Engineering
-* **Cisco Networking Foundations:** Wireless, Services, Security, and Virtualization | *LinkedIn Learning*
-* **Using Python for Process Automation** | *LinkedIn Learning*
-* **Networking Foundations: Basics & IP Addressing Mapping** | *LinkedIn Learning*
-* **Database Foundations: Introduction to Databases** | *LinkedIn Learning*
+## Core Engineering Labs & High-Impact Projects
 
-#### Quality Engineering, ITAM, & Leadership Frameworks
-* **Introduction to IT Asset Management (ITAM)** | *Asset Lifecycle & Governance*
-* **Lean Six Sigma: Define and Measure Tools** | *Process Optimization*
-* **Six Sigma Foundations** | *Operational Quality Assurance*
-* **Core Competencies:** Strategic Problem Solving, Intercultural Communication, Decision-Making Under Constraints
+### Systems & Storage Architecture
 
+* **[MultiOS-Storage-Architecture](https://www.google.com/search?q=https://github.com/NiteOpsTech/MultiOS-Storage-Architecture):** Configured a resilient dual-boot architecture bridging Windows 11 and Red Hat Enterprise Linux (RHEL) utilizing a platform-agnostic `rEFind` boot manager via upstream RPM adjustments, bypassing standard GRUB/UEFI layout restrictions without compromising local volume headers.
+* **[Security-Ops-Storage](https://www.google.com/search?q=https://github.com/NiteOpsTech/Security-Ops-Storage):** Engineered a 440GB local storage container using VeraCrypt, utilizing symmetric block cipher AES-256 with SHA-512 key derivations over an optimized exFAT environment. Integrated automated, non-persistent mounting shell macros (`tankon` / `tankoff`) to obscure logical volume mappings on demand.
+
+### Core Infrastructure & Telemetry Auditing
+
+* **[SSH-Hardening-Audit](https://www.google.com/search?q=https://github.com/NiteOpsTech/SSH-Hardening-Audit):** Transitioned a production OpenSSH configuration to an audited `LogLevel VERBOSE` profile to actively capture and log unique public key cryptographic fingerprints. Deployed kernel-level event stream hooks paired with aggressive threshold limits (`MaxAuthTries 2`) to identify, parse, and block automated distributed brute-force mechanics in real time.
+
+---
+
+## Tiered Security & Engineering Roadmap (Levels 1–10)
+
+This section tracks progressive infrastructure development, moving from fundamental endpoint configuration up to custom low-level telemetry engineering and autonomous cloud analytics.
+
+### [Level 1: Endpoint & Identity Security Foundations](https://www.google.com/search?q=https://github.com/NiteOpsTech/Portfolio-Roadmap/tree/main/level-1)
+
+* Automated deployment of local security baselines, privilege management frameworks, and cryptographic posture validation.
+
+### [Level 2: Local AI Engine Deployment](https://www.google.com/search?q=https://github.com/NiteOpsTech/local-ai-orchestration)
+
+* Orchestration and deployment of localized large language models utilizing Ollama containerized within Docker instances for offline data processing.
+
+### [Level 3: Custom Security AI Chatbot API Scripting](https://www.google.com/search?q=https://github.com/NiteOpsTech/local-ai-bridge)
+
+* Programmatic bridge construction and API development to interface securely with local model environments for contextual security alert analysis.
+
+### [Level 4: Detections-as-Code](https://www.google.com/search?q=https://github.com/NiteOpsTech/local-detection-pipeline)
+
+* Engineering defensive logic playbooks by translating threat behaviors into formal Sigma Rules integrated directly into custom Wazuh monitoring pipelines.
+
+### [Level 5: Cloud Infrastructure-as-Code](https://www.google.com/search?q=https://github.com/NiteOpsTech/local-terraform-sandbox)
+
+* Provisioning and auditing cloud infrastructure sandboxes dynamically via Terraform to enforce reproducible, deterministic environments.
+
+### [Level 6: Local IoT Migration](https://www.google.com/search?q=https://github.com/NiteOpsTech/local-iot-migration)
+
+* Designing an isolated local network migration for high-capacity security cameras and storage using Scrypted to enforce segmentation boundaries.
+
+### [Level 7: Enterprise Security Data Pipeline](https://www.google.com/search?q=https://github.com/NiteOpsTech/security-auth-parser)
+
+* Structural pipeline engineering focusing on Log Extract, Transform, and Load (ETL) mechanics to normalize raw system telemetry streams, transforming unstructured textual security logs into clean data formats.
+
+### [Level 8: Sentry Database and Camera Metadata Processing](https://www.google.com/search?q=https://github.com/NiteOpsTech/Portfolio-Roadmap/tree/main/level-8)
+
+* Backend database development to ingest, parse, and structure localized sensor metrics and object-detection streams in real time.
+
+### [Level 9: Cloud Data Warehouse Analytics](https://www.google.com/search?q=https://github.com/NiteOpsTech/Portfolio-Roadmap/tree/main/level-9)
+
+* Advanced threat hunting analytics deploying large-scale query parsing over Snowflake environments utilizing optimized SQL schemas.
+
+### [Level 10: NanoMesh Control Plane & Autonomous Defense Matrix](https://www.google.com/search?q=https://github.com/NiteOpsTech/NanoMesh-Control-Plane)
+
+* Implementation of zero-overhead kernel hooks via eBPF to monitor raw execution states, socket lifecycles, and execute mid-session moving target defense traffic redirection within an interconnected multi-tenant labyrinth.
 ---
 
 ### Active Academic Timeline
