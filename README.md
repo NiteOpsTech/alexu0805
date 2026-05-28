@@ -77,3 +77,4 @@ Results-driven IT professional bridging enterprise technology operations with de
 ### Let's Collaborate
 * **LinkedIn:** [/in/alejandro-ugalde-quintana](https://linkedin.com/in/alejandro-ugalde-quintana)
 * **Workspace Interest:** Cloud Security Operations, Bare-Metal Lab Deployments, Network Hardening, and Open Source Threat Analysis.
+#ebpf #xdp #software-defined-networking #kernel-telemetry #moving-target-defense #linux-internals
