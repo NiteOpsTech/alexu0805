@@ -19,25 +19,25 @@ Results-driven IT professional bridging enterprise technology operations with de
 
 ### Active Engineering Labs & High-Impact Projects
 ---
-| **Cybersecurity Engineering & Automation Portfolio** |
+**Cybersecurity Engineering & Automation Portfolio** 
 An implementation directory of advanced Linux kernel engineering, autonomic defense systems, and low-level security auditing utilities. Managed and developed by NiteOpsTech.
 
-| **Autonomic Defense & Pipeline Automation** |
+**Autonomic Defense & Pipeline Automation** 
 local_soar_engine
 Engineered a Security Orchestration, Automation, and Response (SOAR) engine that maps structured telemetry payloads to dynamic playbooks.json routing matrix conditions. Built an automated Python pipeline loop that dynamically parses indicators of compromise (IOCs), invokes a containerized local AI engine endpoint for runtime context verification, and renders explicit host-level isolation and containment directives in real time.
 
-| **autonomous_defense_matrix** |
+**autonomous_defense_matrix** 
 Architected an end-to-end cyber range simulation platform that integrates multi-tier infrastructure layers into a closed-loop autonomous defense system. Features a programmable Bash adversary simulation engine mimicking a multi-stage cyber kill chain (stealth profiling, credential spraying, and active C2 egress beaconing) to validate continuous data pipelines, cloud analytics storage, and automated network mitigation scripts simultaneously.
 
-| **Core Infrastructure & Telemetry Auditing** |
+**Core Infrastructure & Telemetry Auditing**
 SSH-Hardening-Audit
 Transitioned a production OpenSSH configuration to an audited LogLevel VERBOSE profile to actively capture and log unique public key cryptographic fingerprints. Deployed kernel-level event stream hooks paired with aggressive threshold limits (MaxAuthTries 2) to identify, parse, and block automated distributed brute-force mechanics in real time.
 
-| **Systems & Storage Architecture** |
+**Systems & Storage Architecture**
 MultiOS-Storage-Architecture
 Configured a resilient dual-boot architecture bridging Windows 11 and Red Hat Enterprise Linux (RHEL) utilizing a platform-agnostic rEFind boot manager via upstream RPM adjustments, bypassing standard GRUB/UEFI layout restrictions without compromising local volume headers.
 
-Security-Ops-Storage
+**Security-Ops-Storage**
 Engineered a 440GB local storage container using VeraCrypt, utilizing symmetric block cipher AES-256 with SHA-512 key derivations over an optimized exFAT environment. Integrated automated, non-persistent mounting shell macros (tankon / tankoff) to obscure logical volume mappings on demand.
 ### Core Infrastructure & Telemetry Auditing
 
