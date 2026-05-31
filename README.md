@@ -95,4 +95,5 @@ BOSS FIGHT - Autonomous AI-Driven Defense Matrix - The grand finale integration 
 ### Let's Collaborate
 * **LinkedIn:** [/in/alejandro-ugalde-quintana](https://linkedin.com/in/alejandro-ugalde-quintana)
 * **Workspace Interest:** Cloud Security Operations, Bare-Metal Lab Deployments, Network Hardening, and Open Source Threat Analysis.
-#ebpf #xdp #software-defined-networking #kernel-telemetry #moving-target-defense #linux-internals
+  
+**#ebpf #xdp #software-defined-networking #kernel-telemetry #moving-target-defense #linux-internals**
