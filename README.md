@@ -29,11 +29,15 @@ Results-driven IT professional bridging enterprise technology operations with de
 
 **Core Infrastructure & Telemetry Auditing**
 
-**SSH-Hardening-Audit**: Transitioned a production OpenSSH configuration to an audited LogLevel VERBOSE profile to actively capture and log unique public key cryptographic fingerprints. Deployed kernel-level event stream hooks paired with aggressive threshold limits (MaxAuthTries 2) to identify, parse, and block automated distributed brute-force mechanics in real time.
+**SSH-Hardening-Audit**: https://github.com/NiteOpsTech/SSH-Hardening-Audit
 
-**Systems & Storage Architecture**
+Transitioned a production OpenSSH configuration to an audited LogLevel VERBOSE profile to actively capture and log unique public key cryptographic fingerprints. Deployed kernel-level event stream hooks paired with aggressive threshold limits (MaxAuthTries 2) to identify, parse, and block automated distributed brute-force mechanics in real time.
 
-**MultiOS-Storage-Architecture**: Configured a resilient dual-boot architecture bridging Windows 11 and Red Hat Enterprise Linux (RHEL) utilizing a platform-agnostic rEFind boot manager via upstream RPM adjustments, bypassing standard GRUB/UEFI layout restrictions without compromising local volume headers.
+**Systems & Storage Architecture**: https://github.com/NiteOpsTech/Security-Ops-Storage
+
+**MultiOS-Storage-Architecture**: https://github.com/NiteOpsTech/MultiOS-Storage-Architecture
+
+Configured a resilient dual-boot architecture bridging Windows 11 and Red Hat Enterprise Linux (RHEL) utilizing a platform-agnostic rEFind boot manager via upstream RPM adjustments, bypassing standard GRUB/UEFI layout restrictions without compromising local volume headers.
 
 **Security-Ops-Storage**: Engineered a 440GB local storage container using VeraCrypt, utilizing symmetric block cipher AES-256 with SHA-512 key derivations over an optimized exFAT environment. Integrated automated, non-persistent mounting shell macros (tankon / tankoff) to obscure logical volume mappings on demand.
 
