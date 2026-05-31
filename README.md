@@ -17,84 +17,49 @@ Results-driven IT professional bridging enterprise technology operations with de
 
 ---
 
-### Active Engineering Labs & High-Impact Projects
----
-**Cybersecurity Engineering & Automation Portfolio** 
+**Active Engineering Labs & High-Impact Projects**
 
-An implementation directory of advanced Linux kernel engineering, autonomic defense systems, and low-level security auditing utilities. Managed and developed by NiteOpsTech.
+**Autonomic Defense & Pipeline Automation**
 
-**Autonomic Defense & Pipeline Automation** 
+**[Level X]** NanoMesh Control Plane - In Progress: Classification: Low-overhead system instrumentation and kernel-space isolation framework. Engineered to establish high-fidelity, passive visibility over active network socket lifecycles (sys_enter_connect / sys_enter_accept) directly within native Linux kernel execution paths. By leveraging extended Berkeley Packet Filters (eBPF) via libbpf and BCC runtimes, Phase 1 maps raw network payloads to real-time process execution parameters (PID, UID, and Comm binary strings) prior to user-space cryptographic encryption. This streaming telemetry passes through an asynchronous ring buffer to serve as the primary sensory trigger for downstream dynamic topology mutation and self-healing infrastructure.
 
-local_soar_engine
-Engineered a Security Orchestration, Automation, and Response (SOAR) engine that maps structured telemetry payloads to dynamic playbooks.json routing matrix conditions. Built an automated Python pipeline loop that dynamically parses indicators of compromise (IOCs), invokes a containerized local AI engine endpoint for runtime context verification, and renders explicit host-level isolation and containment directives in real time.
+**[Level 10]** autonomous_defense_matrix: Architected an end-to-end cyber range simulation platform that integrates multi-tier infrastructure layers into a closed-loop autonomous defense system. Features a programmable Bash adversary simulation engine mimicking a multi-stage cyber kill chain (stealth profiling, credential spraying, and active C2 egress beaconing) to validate continuous data pipelines, cloud analytics storage, and automated network mitigation scripts simultaneously.
 
-**autonomous_defense_matrix** https://github.com/NiteOpsTech/autonomous_defense_matrix
-
-Architected an end-to-end cyber range simulation platform that integrates multi-tier infrastructure layers into a closed-loop autonomous defense system. Features a programmable Bash adversary simulation engine mimicking a multi-stage cyber kill chain (stealth profiling, credential spraying, and active C2 egress beaconing) to validate continuous data pipelines, cloud analytics storage, and automated network mitigation scripts simultaneously.
+**[Level 9]** local_soar_engine: Engineered a Security Orchestration, Automation, and Response (SOAR) engine that maps structured telemetry payloads to dynamic playbooks.json routing matrix conditions. Built an automated Python pipeline loop that dynamically parses indicators of compromise (IOCs), invokes a containerized local AI engine endpoint for runtime context verification, and renders explicit host-level isolation and containment directives in real time.
 
 **Core Infrastructure & Telemetry Auditing**
 
-SSH-Hardening-Audit
-Transitioned a production OpenSSH configuration to an audited LogLevel VERBOSE profile to actively capture and log unique public key cryptographic fingerprints. Deployed kernel-level event stream hooks paired with aggressive threshold limits (MaxAuthTries 2) to identify, parse, and block automated distributed brute-force mechanics in real time.
+**SSH-Hardening-Audit**: Transitioned a production OpenSSH configuration to an audited LogLevel VERBOSE profile to actively capture and log unique public key cryptographic fingerprints. Deployed kernel-level event stream hooks paired with aggressive threshold limits (MaxAuthTries 2) to identify, parse, and block automated distributed brute-force mechanics in real time.
 
 **Systems & Storage Architecture**
 
-MultiOS-Storage-Architecture
-Configured a resilient dual-boot architecture bridging Windows 11 and Red Hat Enterprise Linux (RHEL) utilizing a platform-agnostic rEFind boot manager via upstream RPM adjustments, bypassing standard GRUB/UEFI layout restrictions without compromising local volume headers.
+**MultiOS-Storage-Architecture**: Configured a resilient dual-boot architecture bridging Windows 11 and Red Hat Enterprise Linux (RHEL) utilizing a platform-agnostic rEFind boot manager via upstream RPM adjustments, bypassing standard GRUB/UEFI layout restrictions without compromising local volume headers.
 
-**Security-Ops-Storage**
+**Security-Ops-Storage**: Engineered a 440GB local storage container using VeraCrypt, utilizing symmetric block cipher AES-256 with SHA-512 key derivations over an optimized exFAT environment. Integrated automated, non-persistent mounting shell macros (tankon / tankoff) to obscure logical volume mappings on demand.
 
-Engineered a 440GB local storage container using VeraCrypt, utilizing symmetric block cipher AES-256 with SHA-512 key derivations over an optimized exFAT environment. Integrated automated, non-persistent mounting shell macros (tankon / tankoff) to obscure logical volume mappings on demand.
+Tiered Security & Engineering Roadmap **(Levels 1–10)**
 
-### Core Infrastructure & Telemetry Auditing
+This section tracks progressive infrastructure development, moving from fundamental endpoint configuration up to custom autonomous orchestration pipelines and cloud data intelligence analytics.
 
-* **[SSH-Hardening-Audit](https://www.google.com/search?q=https://github.com/NiteOpsTech/SSH-Hardening-Audit):** Transitioned a production OpenSSH configuration to an audited `LogLevel VERBOSE` profile to actively capture and log unique public key cryptographic fingerprints. Deployed kernel-level event stream hooks paired with aggressive threshold limits (`MaxAuthTries 2`) to identify, parse, and block automated distributed brute-force mechanics in real time.
+**Level 1**: Endpoint & Identity Security Foundations - Automated deployment of local security baselines, privilege management frameworks, and cryptographic posture validation.
 
----
+**Level 2**: Local AI Engine Deployment - Orchestration and deployment of localized large language models utilizing Ollama containerized within Docker instances for offline data processing.
 
-## Tiered Security & Engineering Roadmap (Levels 1–10)
+**Level 3**: Custom Security AI Chatbot API Scripting - Programmatic bridge construction and API development to interface securely with local model environments for contextual security alert analysis.
 
-This section tracks progressive infrastructure development, moving from fundamental endpoint configuration up to custom low-level telemetry engineering and autonomous cloud analytics
+**Level 4**: Detections-as-Code — Engineering defensive logic playbooks by translating threat behaviors into formal Sigma Rules integrated directly into custom Wazuh monitoring pipelines.
 
-### [Level 1: Endpoint & Identity Security Foundations](https://www.google.com/search?q=https://github.com/NiteOpsTech/Portfolio-Roadmap/tree/main/level-1)
+**Level 5**: Cloud Infrastructure-as-Code - Provisioning and auditing cloud infrastructure sandboxes dynamically via Terraform to enforce reproducible, deterministic environments.
 
-* Automated deployment of local security baselines, privilege management frameworks, and cryptographic posture validation.
+**Level 6**: Local IoT Migration - Designing an isolated local network migration for high-capacity security cameras and storage using Scrypted to enforce segmentation boundaries.
 
-### [Level 2: Local AI Engine Deployment](https://www.google.com/search?q=https://github.com/NiteOpsTech/local-ai-orchestration)
+**Level 7**: Enterprise Security Data Pipeline - Structural pipeline engineering focusing on Log Extract, Transform, and Load (ETL) mechanics to normalize raw system telemetry streams, transforming unstructured textual security logs into clean data formats.
 
-* Orchestration and deployment of localized large language models utilizing Ollama containerized within Docker instances for offline data processing
+**Level 8**: Cloud Data Warehouse Analytics - Advanced threat hunting analytics deploying large-scale query parsing over Snowflake environments utilizing optimized SQL schemas.
 
-### [Level 3: Custom Security AI Chatbot API Scripting](https://www.google.com/search?q=https://github.com/NiteOpsTech/local-ai-bridge)
+**Level 9**: Security Orchestration & Automated Response (SOAR) — Automated playbook logic engine running real-time threat validation hooks, process containment execution, and dynamic network security policy adjustments.
 
-* Programmatic bridge construction and API development to interface securely with local model environments for contextual security alert analysis
-
-### [Level 4: Detections-as-Code](https://www.google.com/search?q=https://github.com/NiteOpsTech/local-detection-pipeline)
-
-* Engineering defensive logic playbooks by translating threat behaviors into formal Sigma Rules integrated directly into custom Wazuh monitoring pipelines
-
-### [Level 5: Cloud Infrastructure-as-Code](https://www.google.com/search?q=https://github.com/NiteOpsTech/local-terraform-sandbox)
-
-* Provisioning and auditing cloud infrastructure sandboxes dynamically via Terraform to enforce reproducible, deterministic environments
-
-### [Level 6: Local IoT Migration](https://www.google.com/search?q=https://github.com/NiteOpsTech/local-iot-migration)
-
-* Designing an isolated local network migration for high-capacity security cameras and storage using Scrypted to enforce segmentation boundaries
-
-### [Level 7: Enterprise Security Data Pipeline](https://www.google.com/search?q=https://github.com/NiteOpsTech/security-auth-parser)
-
-* Structural pipeline engineering focusing on Log Extract, Transform, and Load (ETL) mechanics to normalize raw system telemetry streams, transforming unstructured textual security logs into clean data formats
-
-### [Level 8: Sentry Database and Camera Metadata Processing](https://www.google.com/search?q=https://github.com/NiteOpsTech/Portfolio-Roadmap/tree/main/level-8)
-
-* Backend database development to ingest, parse, and structure localized sensor metrics and object-detection streams in real time
-
-### [Level 9: Cloud Data Warehouse Analytics](https://www.google.com/search?q=https://github.com/NiteOpsTech/Portfolio-Roadmap/tree/main/level-9)
-
-* Advanced threat hunting analytics deploying large-scale query parsing over Snowflake environments utilizing optimized SQL schemas
-
-### [Level 10: NanoMesh Control Plane & Autonomous Defense Matrix](https://www.google.com/search?q=https://github.com/NiteOpsTech/NanoMesh-Control-Plane)
-
-* Implementation of zero-overhead kernel hooks via eBPF to monitor raw execution states, socket lifecycles, and execute mid-session moving target defense traffic redirection within an interconnected multi-tenant labyrinth
+**Level 10**: BOSS FIGHT - Autonomous AI-Driven Defense Matrix - The grand finale integration matrix. Combines Levels 1–9 into a continuous, simulated security operations loop capable of programmatically detecting, tracking, auditing, and isolating multi-stage cyber attacks in real time.
 ---
 
 ### Active Academic Timeline
