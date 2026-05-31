@@ -41,25 +41,45 @@ Tiered Security & Engineering Roadmap **(Levels 1–10)**
 
 This section tracks progressive infrastructure development, moving from fundamental endpoint configuration up to custom autonomous orchestration pipelines and cloud data intelligence analytics.
 
-**Level 1**: Endpoint & Identity Security Foundations - Automated deployment of local security baselines, privilege management frameworks, and cryptographic posture validation.
+**Level 1**: https://github.com/NiteOpsTech/security-auth-parser
 
-**Level 2**: Local AI Engine Deployment - Orchestration and deployment of localized large language models utilizing Ollama containerized within Docker instances for offline data processing.
+Endpoint & Identity Security Foundations - Automated deployment of local security baselines, privilege management frameworks, and cryptographic posture validation.
 
-**Level 3**: Custom Security AI Chatbot API Scripting - Programmatic bridge construction and API development to interface securely with local model environments for contextual security alert analysis.
+**Level 2**: https://github.com/NiteOpsTech/local-ai-orchestration
 
-**Level 4**: Detections-as-Code — Engineering defensive logic playbooks by translating threat behaviors into formal Sigma Rules integrated directly into custom Wazuh monitoring pipelines.
+Local AI Engine Deployment - Orchestration and deployment of localized large language models utilizing Ollama containerized within Docker instances for offline data processing.
 
-**Level 5**: Cloud Infrastructure-as-Code - Provisioning and auditing cloud infrastructure sandboxes dynamically via Terraform to enforce reproducible, deterministic environments.
+**Level 3**: https://github.com/NiteOpsTech/local_ai_bridge
 
-**Level 6**: Local IoT Migration - Designing an isolated local network migration for high-capacity security cameras and storage using Scrypted to enforce segmentation boundaries.
+Custom Security AI Chatbot API Scripting - Programmatic bridge construction and API development to interface securely with local model environments for contextual security alert analysis.
 
-**Level 7**: Enterprise Security Data Pipeline - Structural pipeline engineering focusing on Log Extract, Transform, and Load (ETL) mechanics to normalize raw system telemetry streams, transforming unstructured textual security logs into clean data formats.
+**Level 4**: https://github.com/NiteOpsTech/local_detection_pipeline
 
-**Level 8**: Cloud Data Warehouse Analytics - Advanced threat hunting analytics deploying large-scale query parsing over Snowflake environments utilizing optimized SQL schemas.
+Detections-as-Code - Engineering defensive logic playbooks by translating threat behaviors into formal Sigma Rules integrated directly into custom Wazuh monitoring pipelines.
 
-**Level 9**: Security Orchestration & Automated Response (SOAR) — Automated playbook logic engine running real-time threat validation hooks, process containment execution, and dynamic network security policy adjustments.
+**Level 5**: https://github.com/NiteOpsTech/local_terraform_sandbox
 
-**Level 10**: BOSS FIGHT - Autonomous AI-Driven Defense Matrix - The grand finale integration matrix. Combines Levels 1–9 into a continuous, simulated security operations loop capable of programmatically detecting, tracking, auditing, and isolating multi-stage cyber attacks in real time.
+Cloud Infrastructure-as-Code - Provisioning and auditing cloud infrastructure sandboxes dynamically via Terraform to enforce reproducible, deterministic environments.
+
+**Level 6**: https://github.com/NiteOpsTech/local_iot_migration
+
+Local IoT Migration - Designing an isolated local network migration for high-capacity security cameras and storage using Scrypted to enforce segmentation boundaries.
+
+**Level 7**: https://github.com/NiteOpsTech/security_log_etl
+
+Enterprise Security Data Pipeline - Structural pipeline engineering focusing on Log Extract, Transform, and Load (ETL) mechanics to normalize raw system telemetry streams, transforming unstructured textual security logs into clean data formats.
+
+**Level 8**: https://github.com/NiteOpsTech/cloud_data_warehouse
+
+Cloud Data Warehouse Analytics - Advanced threat hunting analytics deploying large-scale query parsing over Snowflake environments utilizing optimized SQL schemas.
+
+**Level 9**: https://github.com/NiteOpsTech/local_soar_engine
+
+Security Orchestration & Automated Response (SOAR) - Automated playbook logic engine running real-time threat validation hooks, process containment execution, and dynamic network security policy adjustments.
+
+**Level 10**: https://github.com/NiteOpsTech/autonomous_defense_matrix
+
+BOSS FIGHT - Autonomous AI-Driven Defense Matrix - The grand finale integration matrix. Combines Levels 1–9 into a continuous, simulated security operations loop capable of programmatically detecting, tracking, auditing, and isolating multi-stage cyber attacks in real time.
 ---
 
 ### Active Academic Timeline
